@@ -1,0 +1,17 @@
+{
+    "testing_sample":"Testing Sample",
+    "remove_from_favorites":"Removed from favorites.",
+    "added_to_favorites":"Added to favorites.",
+    "language":"Language",
+    "item":"Item",
+    "favorites": "Favorites",
+    "back": "Back",
+    "english": "English",
+    "spanish": "Spanish",
+    "french": "French",
+    "arabic":"Arabic",
+    "light": "Light",
+    "dark": "Dark",
+    "language_settings":"Language Settings",
+    "welcome": "Welcome {}"
+}

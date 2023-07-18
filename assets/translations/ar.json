@@ -1,0 +1,17 @@
+{
+    "testing_sample":"عينة الاختبار",
+    "remove_from_favorites":"إزالة من المفضله.",
+    "added_to_favorites":"تمت الإضافة إلى المفضلة.",
+    "language":"اللغة",
+    "item":"بند",
+    "favorites":"المفضله",
+    "back": "ظهر",
+    "english": "الإنكليزية",
+    "spanish": "Spanish",
+    "french": "French",
+    "arabic":"العربية",
+    "light": "النور ",
+    "dark": "داكن",
+    "language_settings": "إعدادات اللغة",
+    "welcome": "أهلًا وسهلًا {}"  
+}
