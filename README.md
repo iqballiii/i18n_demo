@@ -2,11 +2,11 @@
 
 This is a beginner application for internalization (i18n). The application also has got the following features:
 
-- Provider: State management Package - To add the items from a list and remove them from the favorites list.
+- **Provider**: State management Package - To add the items from a list and remove them from the favorites list.
 
-- Easy Localization: i18n multi-language package - Using this package you can make your app i18 enabled.
+- **Easy Localization**: i18n multi-language package - Using this package you can make your app i18 enabled.
 
-- Shared Preferences: Local Offline Storage - This package is used for saving the language prefernce for when it is opened again after being closed or after restarting the state of the application. 
+- **Shared Preferences**: Local Offline Storage - This package is used for saving the language prefernce for when it is opened again after being closed or after restarting the state of the application. 
 
 - Along with the above mentioned features, this application has been unit tested, widget tested and integraton tested by running the following steps:
 
@@ -14,12 +14,12 @@ For testing the application:
 1. create your own specfic tests. 
 
 2. For your specific tests there are different types of commands:
-    a. <test()> - This command works for simple unit testing
-    b. <testWidgets()> - This command works for testing widgets.
+    a. **test()** - This command works for simple unit testing
+    b. **testWidgets()** - This command works for testing widgets.
  
-3. For unit testing, widget testing and inetgration: flutter test <Path to your test file> test/models/favorites_test.dart
+3. For unit testing, widget testing and inetgration: flutter test (Path to your test file)
 
-4. For performance testing: flutter drive --driver=<path to the driver file> --target=<path to the perf test file> --profile --no-dds 
+4. For performance testing: flutter drive --driver=(path to the driver file) --target= (path to the perf test file) --profile --no-dds 
 
 
 ## Links
