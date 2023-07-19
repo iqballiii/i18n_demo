@@ -14,8 +14,8 @@ For testing the application:
 1. create your own specfic tests. 
 
 2. For your specific tests there are different types of commands:
-    a. **test()** - This command works for simple unit testing
-    b. **testWidgets()** - This command works for testing widgets.
+    a. **test()** - This method is used for simple unit testing.
+    b. **testWidgets()** - This method is used for testing widgets.
  
 3. For unit testing, widget testing and inetgration: flutter test (Path to your test file)
 
